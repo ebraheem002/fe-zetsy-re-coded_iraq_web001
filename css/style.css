@@ -62,4 +62,8 @@ main section p a:hover{
   text-decoration: underline;
   
 }
+#box a:hover{
+  border: solid rgb(111,127,122);
+  
+}
 /* Write all remaining styles here */
