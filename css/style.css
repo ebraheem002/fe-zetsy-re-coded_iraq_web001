@@ -68,7 +68,7 @@ main section p a:hover{
 }
 
 #box a:hover{
-  border: 2px solid rgb(111,127,122);
+  border: 4px solid rgb(111,127,122);
   
 }
 /* Write all remaining styles here */
