@@ -63,7 +63,7 @@ main section p a:hover{
   
 }
 #box a:hover{
-  border: solid rgb(111,127,122);
+  border: 2px solid rgb(111,127,122);
   
 }
 /* Write all remaining styles here */
